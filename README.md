@@ -33,13 +33,6 @@ Este projeto foi criado para reforçar o aprendizado dos componentes do Bootstra
    ````bash
    cd frontendBootcamp
    ````
-## 📁 Estrutura do Projeto
-frontendBootcamp/
-├── css/
-│   └── style.css
-├── img/
-│   └── (imagens utilizadas)
-├── index.html
-
+   
 ## 🙋‍♂️ Autor
 Desenvolvido por Swetony Ancelmo — estudante de Análise e Desenvolvimento de Sistemas e entusiasta de desenvolvimento web.
